@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">I Am Rich</h1>
 
-
-## Prints
 <p align="center">
   <img width="300" src="prints_readme/print_001.png"/>
   <img width="300" src="prints_readme/print_002.png"/>
