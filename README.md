@@ -1,16 +1,36 @@
-# iamrich
+<p align="center">
+  <img width="100" src="prints_readme/i_am_rich_app_icon.png"/>
+</p>
+<h1 align="center">I Am Rich</h1>
 
-App #1 - Flutter course created by Dr. Angela Yu
 
-## Getting Started
+## Prints
+<p align="center">
+  <img width="300" src="prints_readme/print_001.png"/>
+  <img width="300" src="prints_readme/print_002.png"/>
+</p>
 
-This project is a starting point for a Flutter application.
+## How to use
 
-A few resources to get you started if this is your first Flutter project:
+To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+# Clone this repository
+$ git clone https://github.com/feMoraes0/i-am-rich.git
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Go into the repository
+$ cd i-am-rich/
+
+# Install dependencies
+$ flutter packages get
+
+# Run the app
+$ flutter run
+```
+
+## Credits
+- [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
+## Contact
+  - <a target="_blank" href="https://www.linkedin.com/in/fernando-moraes-48a26916a/">LinkedIn</a>
+  - <a target="_blank" href="mailto:fernandomoraes.lopes@gmail.com">E-mail</a>
